@@ -2,6 +2,8 @@
 
 Social Media Sentiment Analysis Tool - Analyze compliant public social-data exports for research workflows
 
+> **Sponsored by [CoreClaw](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7)** — production-ready Web Data APIs for AI agents and automation.
+
 ## Agent workflow this project demonstrates
 
 AI systems need a defined data contract, not an undifferentiated web dump. `social-media-sentiment-analysis-tool` focuses on **creator discovery and social-intelligence workflows**: it starts from a concrete request such as **"AI productivity creators"**, returns public posts, creators, URLs, timestamps, and engagement signals, and makes those records available to an agent, RAG process, or analytics workflow.
